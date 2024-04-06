@@ -1,6 +1,6 @@
-import javax.lang.model.element.Name;
 import java.sql.SQLException;
-import java.util.*;
+import java.util.HashMap;
+import java.util.Map;
 
 public class LibraryManagerSqlite extends LibraryManager {
 
